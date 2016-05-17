@@ -12,14 +12,13 @@ html {
 	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdtm66UQAgxibfuiJe9ikr_QgxDZnn2tar9qOaGpazvWiVDjSf");
 	font-family: impact;
 	color: #2df8ff;
-	border-radius: 10px;
+
 
 }
 
 #body{
 
 	margin: auto;
-	height: 200px;
 	width: 950px;
 	background-color: #666666;
 	font-family: impact;
