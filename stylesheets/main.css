@@ -42,7 +42,8 @@ html {
 
 }
 .space{
-	height: 20px
+	height:20px;
+	width:200px;
 }
 #Icon{
 	height:100px;
