@@ -25,6 +25,7 @@ html {
 	font-family: impact;
 	color: #2df8ff;
 	font-size: 50px;
+	border-radius: 10px;
 
 }
 .body{
@@ -35,6 +36,7 @@ html {
 	font-family: impact;
 	color: #2df8ff;
 	font-size: 50px;
+	border-radius: 10px;
 }
 
 
@@ -46,9 +48,8 @@ html {
 	width:200px;
 }
 #Icon{
-	height:100px;
-	width:100px;
-	margin: auto;
+	height:300px;
+	width:300px;
 }
 #latestver{
 	font-size:70px
@@ -63,4 +64,9 @@ a:hover {
 }
 .else{
 	font-size: 30px;
+}
+.center{
+	height:300px;
+	width:300px;
+	margin: auto;
 }
