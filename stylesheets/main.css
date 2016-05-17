@@ -11,7 +11,8 @@
 html {
 	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdtm66UQAgxibfuiJe9ikr_QgxDZnn2tar9qOaGpazvWiVDjSf");
 	font-family: impact;
-	color: #2df8ff
+	color: #2df8ff;
+	border-radius: 10px;
 
 }
 
@@ -28,6 +29,7 @@ html {
 
 }
 .body{
+	width:950px;
 	margin:auto;
 	background-color: #666666;
 	font-family: impact;
